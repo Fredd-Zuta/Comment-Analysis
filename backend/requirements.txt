@@ -1,0 +1,8 @@
+flask
+pandas
+numpy
+openpyxl
+transformers
+torch
+python-multipart
+flask-cors
